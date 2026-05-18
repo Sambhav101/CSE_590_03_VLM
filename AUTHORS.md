@@ -9,11 +9,9 @@
 ### Team Members
 
 1. **Ranjith Merugu**
-   - Roll Number: 116842918
    - Email: (Add if needed)
 
-2. **Sambhav Srivastava**
-   - Roll Number: 117525285
+2. **Sambhav Shrestha**
    - Email: (Add if needed)
 
 ### Project Description
